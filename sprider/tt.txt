@@ -1,0 +1,1 @@
+<title>DIYÂÛÌ³</title><frameset name=forum cols=13,* framespacing=1 frameborder=0><frame name=menu scrolling=no src=/bbs/menu/1.htm><frame name=list src=/bbs/right/1.htm></frameset><noframes><body>frame page</body></noframes>
